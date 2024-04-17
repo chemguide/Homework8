@@ -29,6 +29,7 @@ public class Main {
                 System.out.println(atomicWeights[i]);
             }
         }
+        //Задача 3
         System.out.println("\nЗадача 3");
         for (int i = arrayOne.length - 1; i >= 0; i--) {
             if (i != 0) {
@@ -51,6 +52,7 @@ public class Main {
                 System.out.println(atomicWeights[i]);
             }
         }
+        //Задача 4
         System.out.println("\nЗадача 4");
         for (int i = 0; i < arrayOne.length; i++) {
             if (arrayOne[i] % 2 != 0) {
